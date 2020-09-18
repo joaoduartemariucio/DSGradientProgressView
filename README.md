@@ -98,7 +98,7 @@ $ pod install
 
 ### Swift Packages
 
-Link: https://github.com/joaoduartemariucio/DSGradientProgressView.git
+Link: https://github.com/joaoduartemariucio/DSGradientProgressView
 
 ### Manually
 
